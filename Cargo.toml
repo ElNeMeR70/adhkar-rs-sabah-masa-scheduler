@@ -1,0 +1,10 @@
+[package]
+name = "adhkar-rs-sabah-masa-scheduler"
+version = "1.0.0"
+edition = "2021"
+description = "Astronomical Fajr-to-Sunrise & Asr-to-Maghrib Adhkar Window Scheduler"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "adhkar_rs_sabah_masa_scheduler"
+path = "main.rs"
